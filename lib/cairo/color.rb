@@ -258,7 +258,7 @@ module Cairo
       def to_cmyk
         to_rgb.to_cmyk
       end
-
+#
       def to_hsv
         clone
       end
