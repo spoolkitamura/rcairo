@@ -91,7 +91,7 @@ module Cairo
       def hash
         to_s.hash
       end
-
+#
       def eql?(other)
         self == other
       end
