@@ -30,7 +30,7 @@ module Cairo
         value
       end
     end
-
+#
     HEX_RE = "(?i:[a-f\\d])"
     def parse_hex_color(value)
       case value
